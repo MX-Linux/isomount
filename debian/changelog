@@ -1,3 +1,9 @@
+isomount (0.1.5mx+3) mx; urgency=medium
+
+  * updates to man page (thanks operadude)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 30 Oct 2026 20:27:08 -0400
+
 isomount (0.1.5mx+2) mx; urgency=medium
 
   * move to usr/bin rather than usr/local/bin
